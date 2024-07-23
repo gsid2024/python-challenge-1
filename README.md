@@ -1,5 +1,5 @@
 # python-challenge-1
-Challenge 2 July 22 2024
+
 Challenge 2 July 22 2024
 Overview:
 The goal of this challenge is to develop an interactive order system for a food truck, which allows customers to select items from a categorized menu, specify quantities, and receive a summary of their order. This document provides an analysis of the implemented solution, outlining the functionality, user interactions, and code logic.
